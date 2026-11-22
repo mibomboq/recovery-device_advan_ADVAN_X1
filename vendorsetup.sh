@@ -79,7 +79,7 @@ export OF_USE_LZ4_COMPRESSION=1
 export OF_ENABLE_ALL_PARTITION_TOOLS=1
 
 # variant
-export OF_MAINTAINER="Guzram"
+export OF_MAINTAINER="DooPrjkt"
 
 # no flashlight
 export OF_FLASHLIGHT_ENABLE=0
